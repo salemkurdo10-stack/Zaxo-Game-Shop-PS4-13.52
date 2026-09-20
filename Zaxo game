@@ -1,0 +1,21 @@
+index.html<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Zaxo Game Shop</title>
+</head>
+<body>
+  <h1>Zaxo Game Shop</h1>
+  <h2>PS4 Firmware 13.52 Research</h2>
+
+  <p>Homebrew and research information for PlayStation 4.</p>
+
+  <hr>
+
+  <p><strong>Shop:</strong> Zaxo Game Shop</p>
+  <p><strong>Firmware:</strong> PS4 13.52</p>
+
+  <p>This page is for educational and research purposes.</p>
+</body>
+</html>
